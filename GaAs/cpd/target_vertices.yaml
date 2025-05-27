@@ -1,0 +1,19 @@
+target: GaAs
+A:
+  chem_pot:
+    As: -0.0
+    B: -0.2552485787500012
+    Ga: -0.96562
+  competing_phases:
+  - As
+  impurity_phases:
+  - B6As
+B:
+  chem_pot:
+    As: -0.96562
+    B: -0.09431191208333452
+    Ga: -0.0
+  competing_phases:
+  - Ga
+  impurity_phases:
+  - B6As

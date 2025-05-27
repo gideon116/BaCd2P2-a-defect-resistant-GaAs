@@ -1,0 +1,45 @@
+target: Ba(CdP)2
+A:
+  chem_pot:
+    Ba: -1.41925
+    Cd: -0.20611
+    P: -0.74956
+    Sn: -0.22538451250000135
+  competing_phases:
+  - Ba3P4
+  - Ba5P4
+  impurity_phases:
+  - BaSn2
+B:
+  chem_pot:
+    Ba: -1.14444
+    Cd: 0.0
+    P: -1.09307
+    Sn: -0.5716009000000005
+  competing_phases:
+  - Ba5P4
+  - Cd
+  impurity_phases:
+  - BaCdSn
+C:
+  chem_pot:
+    Ba: -1.82553
+    Cd: -0.30768
+    P: -0.44485
+    Sn: -0.022244512500001312
+  competing_phases:
+  - Ba3P4
+  - Cd3P2
+  impurity_phases:
+  - BaSn2
+D:
+  chem_pot:
+    Ba: -1.51786
+    Cd: 0.0
+    P: -0.90636
+    Sn: -0.19818090000000055
+  competing_phases:
+  - Cd
+  - Cd3P2
+  impurity_phases:
+  - BaCdSn
